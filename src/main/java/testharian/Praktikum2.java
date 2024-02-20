@@ -16,10 +16,10 @@ public class Praktikum2 {
     public static void main(String[] args) {
         float x = 0;
         int y = 0;
-        boolean z = true;
+        boolean w = true;
         Scanner sc = new Scanner(System.in);
         try {
-            while(z) {
+            while(w) {
                 x += sc.nextInt();
                 y += 1;
             }
